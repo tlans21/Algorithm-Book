@@ -18,7 +18,7 @@ export const fundamentalsCollection = {
 						{
 							name: "그리디 알고리즘",
 							description: {
-								text: "탐욕법이라고 불리는 알고리즘에 대한 문제입니다.",
+								text: "탐욕법이라고도 불리는 알고리즘에 대한 문제입니다.",
 								links: [
 									["난이도 - 중, 거스름 돈", "https://www.acmicpc.net/problem/14916"],
 									["난이도 - 중, 로프", "https://www.acmicpc.net/problem/2217"],
