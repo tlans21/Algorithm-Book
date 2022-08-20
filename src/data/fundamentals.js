@@ -1,29 +1,29 @@
 export const fundamentalsCollection = {
-	name: "Fundamentals",
+	name: "알고리즘",
 	areas: [
 		{
-			name: "HTML",
+			name: "초급 알고리즘",
 			skills: [
-				{
-					name: "Syntax",
+				{	
+					name : "정렬",
 					description: {
-						text: "Learn the basics of HTML and get comfortable with it's syntax and main concepts.",
+						text: "기본적으로 쓰이는 정렬에 대한 문제",
 						links: [
-							["MDN - HTML Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"],
-							["MDN - Introduction to HTML", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML"],
-							["Codecademy - Learn HTML", "https://www.codecademy.com/learn/learn-html"],
+							["난이도 - 하, 수 정렬하기 ", "https://www.acmicpc.net/problem/2750"],
+							["난이도 - 중, 수열 정렬 ", "https://www.acmicpc.net/problem/1015"],
+							["난이도 - 중, 수 정렬하기 2", "https://www.acmicpc.net/problem/2751"],
 						]
 					},
 					skills: [
 						{
-							name: "Basic Tags",
+							name: "그리디 알고리즘",
 							description: {
-								text: "Get familiar with the basic HTML tags",
+								text: "탐욕법이라고도 불리는 알고리즘에 대한 문제입니다.",
 								links: [
-									["MDN - HTML elements reference", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"],
-									["Tutorialspoint - Basic HTML tags", "https://www.tutorialspoint.com/html/html_basic_tags.htm"],
-									["Elated - First 10 HTML tags", "https://www.elated.com/first-10-html-tags/"],
-									["W3Schools - HTML tags", "https://www.w3schools.com/tags/ref_byfunc.asp"]
+									["난이도 - 중, 거스름 돈", "https://www.acmicpc.net/problem/14916"],
+									["난이도 - 중, 로프", "https://www.acmicpc.net/problem/2217"],
+									["난이도 - 중, 폴리오미노", "https://www.acmicpc.net/problem/1343"],
+									["난이도 - 중, 동전 0", "https://www.acmicpc.net/problem/11047"]
 								]
 							},
 						},
@@ -92,7 +92,6 @@ export const fundamentalsCollection = {
 			name: "CSS",
 			skills: [
 				{
-					name: "Syntax",
 					description: {
 						text: "Learn the basics of CSS and get comfortable with it's syntax and main concepts.",
 						links: [
@@ -346,7 +345,6 @@ export const fundamentalsCollection = {
 			name: "Javascript",
 			skills: [
 				{
-					name: "Syntax",
 					description: {
 						text: "Learn the basics of Javascript and get comfortable with it's syntax and main concepts.",
 						links: [
