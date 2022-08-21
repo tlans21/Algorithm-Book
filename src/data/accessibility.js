@@ -7,9 +7,9 @@ export const accessibilityCollection = {
 			skills: [
 				{
 		
-					name: "완전탐색",
+					name: "탐색",
 					description: {
-						text: "완전탐색을 이용한 자료구조 문제입니다.",
+						text: "완전탐색을 이용한 자료구조 문제",
 						links: [
 							["난이도 - 하, 최소 직사각형", "https://school.programmers.co.kr/learn/courses/30/lessons/86491"],
 						]
