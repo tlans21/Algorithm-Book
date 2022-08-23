@@ -16,21 +16,18 @@ export const fundamentalsCollection = {
 					},
 					skills: [
 						{
-							name: "Basic Tags",
+							name: "탐색",
 							description: {
-								text: "Get familiar with the basic HTML tags",
+								text: "완전탐색을 이용한 알고리즘 문제",
 								links: [
-									["MDN - HTML elements reference", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"],
-									["Tutorialspoint - Basic HTML tags", "https://www.tutorialspoint.com/html/html_basic_tags.htm"],
-									["Elated - First 10 HTML tags", "https://www.elated.com/first-10-html-tags/"],
-									["W3Schools - HTML tags", "https://www.w3schools.com/tags/ref_byfunc.asp"]
+									["난이도 - 하, 최소 직사각형", "https://school.programmers.co.kr/learn/courses/30/lessons/86491"],
 								]
-							},
+							}
 						},
 					]
 				},
 				{
-					name: "Forms",
+					name: "탐색",
 					description: {
 						text: "Learn how to design efficient forms, validating them effectively and keeping the user informed along the way.",
 						links: [
