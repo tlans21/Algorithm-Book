@@ -25,18 +25,16 @@ export const fundamentalsCollection = {
 									["난이도 - 중, 폴리오미노", "https://www.acmicpc.net/problem/1343"],
 									["난이도 - 중, 동전 0", "https://www.acmicpc.net/problem/11047"]
 								]
-							},
+							}
 						},
 					]
 				},
 				{
-					name: "Forms",
-					description: {
-						text: "Learn how to design efficient forms, validating them effectively and keeping the user informed along the way.",
-						links: [
-							["MDN - HTML forms", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms"],
-							["Google Web - Forms", "https://developers.google.com/web/fundamentals/design-and-ux/input/forms/"],
-							["W3Schools - Forms", "https://www.w3schools.com/html/html_forms.asp"],
+					name: "탐색",
+							description: {
+								text: "완전탐색을 이용한 알고리즘 문제",
+								links: [
+									["난이도 - 하, 최소 직사각형", "https://school.programmers.co.kr/learn/courses/30/lessons/86491"],
 						]
 					}
 				},
