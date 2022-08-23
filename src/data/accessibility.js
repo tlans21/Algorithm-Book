@@ -1,21 +1,23 @@
 export const accessibilityCollection = {
-	
-	name: "자료구조",
+	name: "Accessibility",
 	areas: [
 		{
-			name: "초급 자료구조",
 			skills: [
 				{
-		
-					name: "탐색",
+					name: "The why",
 					description: {
-						text: "완전탐색을 이용한 자료구조 문제",
+						text: "Learn what accessibility is and why it is important.",
 						links: [
-							["난이도 - 하, 최소 직사각형", "https://school.programmers.co.kr/learn/courses/30/lessons/86491"],
+							["Google Devs - Accessibility Fundamentals", "https://developers.google.com/web/fundamentals/accessibility/"],
+							["A11ycasts with Rob Dodson", "https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g"],
+							["Udacity - Chromevox Lite", "http://udacity.github.io/ud891/lesson3-semantics-built-in/02-chromevox-lite/"],
+							["Dev.to - Why Accessibility Matters", "https://dev.to/lhoffmanwg1/why-accessibility-matters-39nl"],
+							["Abilitynet - Why Accessibility Matters", "https://www.abilitynet.org.uk/why-accessibility-matters"],
+							["Udacity - Web Accessibility", "https://www.udacity.com/course/web-accessibility--ud891"],
+							["Youtube - Headings, Landmarks, and Tabs", "https://www.youtube.com/watch?v=HE2R86EZPMA"],
 						]
 					}
 				},
-
 				{
 					name: "Screen Readers",
 					description: {
