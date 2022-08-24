@@ -68,7 +68,7 @@ export const fundamentalsCollection = {
 				{
 					name: "완전 탐색",
 					description: {
-						text: "브루트 포스라고도 불립니다.",
+						text: "브루트 포스라고 불립니다.",
 						links: [
 							["난이도 - 하, 피로도", "https://www.acmicpc.net/problem/22864"],
 							["난이도 - 하, 블랙잭", "https://www.acmicpc.net/problem/2798"],
