@@ -18,16 +18,27 @@ export const fundamentalsCollection = {
 						{
 							name: "그리디 알고리즘",
 							description: {
+              
 								text: "탐욕법으로 불리는 알고리즘 문제",
+
 								links: [
 									["난이도 - 중, 거스름 돈", "https://www.acmicpc.net/problem/14916"],
 									["난이도 - 중, 로프", "https://www.acmicpc.net/problem/2217"],
 									["난이도 - 중, 폴리오미노", "https://www.acmicpc.net/problem/1343"],
 									["난이도 - 중, 동전 0", "https://www.acmicpc.net/problem/11047"]
 								]
-							},
+							}
 						},
 					]
+				},
+				{
+					name: "탐색",
+							description: {
+								text: "완전탐색을 이용한 알고리즘 문제",
+								links: [
+									["난이도 - 하, 최소 직사각형", "https://school.programmers.co.kr/learn/courses/30/lessons/86491"],
+						]
+					}
 				},
 				{
 					name: "다이나믹 프로그래밍",
@@ -38,33 +49,33 @@ export const fundamentalsCollection = {
 							["난이도 - 중, 다리 놓기", "https://www.acmicpc.net/problem/1010"],
 							["난이도 - 중, 돌 게임", "https://www.acmicpc.net/problem/9655"],
 						]
-					}
-				},
-				{
-					name: "구현",
-					description: {
-						text: "알고리즘 기본 소양",
-						links: [
-							["난이도 - 중, 상어 초등학교", "https://www.acmicpc.net/problem/21608"],
-							["난이도 - 중, 빙고", "https://www.acmicpc.net/problem/2578"],
-							["난이도 - 중, 지뢰 찾기", "https://www.acmicpc.net/problem/4396"],
-							["난이도 -중, 오리", "https://www.acmicpc.net/problem/12933"]
-						]
 					},
 					skills: [
 						{
-							name: "완전 탐색",
-							description: {
-								text: "브루트 포스라고도 불립니다.",
-								links: [
-									["난이도 - 하, 피로도", "https://www.acmicpc.net/problem/22864"],
-									["난이도 - 하, 블랙잭", "https://www.acmicpc.net/problem/2798"],
-									["난이도 - 중,  DNA", "https://www.acmicpc.net/problem/1969"],
-									["난이도 - 중, 큰 수 구성하기", "https://www.acmicpc.net/problem/18511"]
-								]
-							}
+						name: "구현",
+						description: {
+							text: "알고리즘 기본 소양",
+							links: [
+								["난이도 - 중, 상어 초등학교", "https://www.acmicpc.net/problem/21608"],
+								["난이도 - 중, 빙고", "https://www.acmicpc.net/problem/2578"],
+								["난이도 - 중, 지뢰찾기", "https://www.acmicpc.net/problem/4396"],
+								["난이도 -중, 오리", "https://www.acmicpc.net/problem/12933"]
+							]
+						}
 						}
 					]
+				},
+				{
+					name: "완전 탐색",
+					description: {
+						text: "브루트 포스라고도 불립니다.",
+						links: [
+							["난이도 - 하, 피로도", "https://www.acmicpc.net/problem/22864"],
+							["난이도 - 하, 블랙잭", "https://www.acmicpc.net/problem/2798"],
+							["난이도 - 중,  DNA", "https://www.acmicpc.net/problem/1969"],
+							["난이도 - 중, 큰 수 구성하기", "https://www.acmicpc.net/problem/18511"]
+						]
+					}
 				}
 			]
 		},
