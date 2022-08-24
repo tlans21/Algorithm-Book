@@ -41,48 +41,39 @@ export const fundamentalsCollection = {
 					}
 				},
 				{
-					name: "SEO",
+					name: "다이나믹 프로그래밍",
 					description: {
-						text: "Learn how to make your content search-friendly.",
+						text: "다이나믹 프로그래밍 문제",
 						links: [
-							["web.dev - Discoverable", "https://web.dev/discoverable"],
-							["Google Search - Get Started", "https://developers.google.com/search/docs/guides/get-started"],
-							["Google Search - SEO basics", "https://developers.google.com/search/docs/guides/javascript-seo-basics"],
-							["web.dev - SEO audits", "https://web.dev/lighthouse-seo"]
+							["난이도 - 하, 설탕 배달", "https://www.acmicpc.net/problem/2839"],
+							["난이도 - 중, 다리 놓기", "https://www.acmicpc.net/problem/1010"],
+							["난이도 - 중, 돌 게임", "https://www.acmicpc.net/problem/9655"],
 						]
 					},
 					skills: [
 						{
-							name: "Discoverable Content",
-							description: {
-								text: "Learn how to structure your HTML in a way that provides a rich experience when sharing it online.",
-								links: [
-									["Google Web - Social Discovery", "https://developers.google.com/web/fundamentals/discovery/social-discovery"],
-									["Google Search - Search Features", "https://developers.google.com/search/docs/guides/search-features"],
-									["Google Search - Structured Data", "https://developers.google.com/search/docs/guides/intro-structured-data"],
-									["web.dev - Easily discoverable", "https://web.dev/discoverable"]
-								]
-							}
+						name: "구현",
+						description: {
+							text: "알고리즘 기본 소양",
+							links: [
+								["난이도 - 중, 상어 초등학교", "https://www.acmicpc.net/problem/21608"],
+								["난이도 - 중, 빙고", "https://www.acmicpc.net/problem/2578"],
+								["난이도 - 중, 지뢰찾기", "https://www.acmicpc.net/problem/4396"],
+								["난이도 -중, 오리", "https://www.acmicpc.net/problem/12933"]
+							]
+						}
 						}
 					]
 				},
 				{
-					name: "Svg",
+					name: "완전 탐색",
 					description: {
-						text: "Learn how to work with SVG files to make graphics look crisp across all screen resolutions.",
+						text: "브루트 포스라고 불립니다.",
 						links: [
-							["MDN - Adding vector graphics to the Web", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web"],
-							["SVG on the web", "https://svgontheweb.com/"],
-						]
-					}
-				},
-				{
-					name: "Best Practices",
-					description: {
-						text: "Learn the best practices of writing HTML.",
-						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
+							["난이도 - 하, 피로도", "https://www.acmicpc.net/problem/22864"],
+							["난이도 - 하, 블랙잭", "https://www.acmicpc.net/problem/2798"],
+							["난이도 - 중,  DNA", "https://www.acmicpc.net/problem/1969"],
+							["난이도 - 중, 큰 수 구성하기", "https://www.acmicpc.net/problem/18511"]
 						]
 					}
 				}
