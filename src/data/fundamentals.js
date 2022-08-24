@@ -47,7 +47,7 @@ export const fundamentalsCollection = {
 						links: [
 							["난이도 - 중, 상어 초등학교", "https://www.acmicpc.net/problem/21608"],
 							["난이도 - 중, 빙고", "https://www.acmicpc.net/problem/2578"],
-							["난이도 - 중, 지뢰찾기", "https://www.acmicpc.net/problem/4396"],
+							["난이도 - 중, 지뢰 찾기", "https://www.acmicpc.net/problem/4396"],
 							["난이도 -중, 오리", "https://www.acmicpc.net/problem/12933"]
 						]
 					},
