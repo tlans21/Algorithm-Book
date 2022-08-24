@@ -68,7 +68,11 @@ export const fundamentalsCollection = {
 				{
 					name: "완전 탐색",
 					description: {
+
 						text: "브루트 포스라고 불립니다.",
+
+						text: "브루트 포스라고 불립니다.",
+
 						links: [
 							["난이도 - 하, 피로도", "https://www.acmicpc.net/problem/22864"],
 							["난이도 - 하, 블랙잭", "https://www.acmicpc.net/problem/2798"],
@@ -80,88 +84,29 @@ export const fundamentalsCollection = {
 			]
 		},
 		{
-			name: "CSS",
+			name: "중급 알고리즘",
 			skills: [
-				{
+				{	name: "시뮬레이션",
 					description: {
-						text: "Learn the basics of CSS and get comfortable with it's syntax and main concepts.",
+						text: "시뮬레이션 문제입니다.",
 						links: [
-							["MDN - CSS Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics"],
-							["W3Schools - CSS Tutorial", "https://www.w3schools.com/css/default.asp"],
-							["Supercharged - CSS Selectors", "https://www.youtube.com/watch?v=IKho_xDKaLw"],
-							["MDN - CSS first steps", "https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps"],
-							["MDN - CSS building blocks", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks"],
-							["MDN - CSS values and units", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units"],
-							["MDN - CSS Syntax", "https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax"],
+							["난이도 - 중, ZOAC 3", "https://www.acmicpc.net/problem/20436"],
+							["난이도 - 중, 지구 온난화", "https://www.acmicpc.net/problem/5212"],
+							["난이도 - 상, 톱니바퀴", "https://www.acmicpc.net/problem/14891"],
+							["난이도 - 상, 감시", "https://www.acmicpc.net/problem/15683"]
 						]
 					}
 				},
 				{
-					name: "Selectors",
-					description: {
-						text: "Learn about CSS selectors and how to effeciently target DOM elements.",
-						links: [
-							["MDN - CSS selectors", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors"],
-							["MDN - All selectors", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors"],
-							["CSS Tricks - Child and Sibling Selectors", "https://css-tricks.com/child-and-sibling-selectors/"],
-							["CSS Tricks - All Selectors", "https://css-tricks.com/almanac/selectors/"],
-							["W3Schools - CSS Combinators", "https://www.w3schools.com/css/css_combinators.asp"]
-						]
-					},
-					skills: [
-						{
-							name: "Specificity",
-							description: {
-								text: "Learn what specificity means and how to use it when writing CSS.",
-								links: [
-									["MDN - Specificity", "https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity"],
-									["MDN - Cascade and inheritance", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance"],
-									["dev.to - CSS Specificity", "https://dev.to/emmawedekind/css-specificity-1kca"],
-									["Specificity Calculator", "https://specificity.keegan.st/"],
-									["W3Schools - CSS Specificity", "https://www.w3schools.com/css/css_specificity.asp"]
-								]
-							},
-						},
-						{
-							name: "Pseudo Selectors",
-							description: {
-								text: "Learn how to use pseudo selectors.",
-								links: [
-									["MDN - Pseudo-classes", "https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes"],
-									["CSS Tricks - Meet the Pseudo Class Selectors", "https://css-tricks.com/pseudo-class-selectors/"],
-									["When do the :hover, :focus, and :active pseudo-classes apply?", "https://bitsofco.de/when-do-the-hover-focus-and-active-pseudo-classes-apply/"],
-									["W3Schools - CSS Pseudo-elements", "https://www.w3schools.com/css/css_pseudo_elements.asp"],
-									["W3Schools - CSS Pseudo-classes", "https://www.w3schools.com/css/css_pseudo_classes.asp"],
-								]
-							},
-						},
-					]
-				},
-				{
-					name: "Box Model",
+					name: "투 포인터",
 					description: {
 						text: "Learn what the CSS box model means.",
 						links: [
-							["MDN - Introduction to the CSS basic box model", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model"],
-							["MDN - The box model", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model"],
-							["CSS Tricks - Inheriting box-sizing", "https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/"],
+							["난이도 - 중, 배열 합치기", "https://www.acmicpc.net/problem/11728"],
+							["난이도 - 상, 두 용액", "https://www.acmicpc.net/problem/2470"],
+							["난이도 - 중상, 겹치는건 싫어", "https://www.acmicpc.net/problem/20922"],
 						]
 					},
-					skills: [
-						{
-							name: "Margin Collapsing",
-							description: {
-								text: "Learn about margin collapsing.",
-								links: [
-									["MDN - Mastering margin collapsing", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing"],
-									["Margin Collapse in CSS: What, Why, and How", "https://medium.com/@joseph0crick/margin-collapse-in-css-what-why-and-how-328c10e37ca0"],
-									["CSS Tricks - What You Should Know About Collapsing Margins", "https://css-tricks.com/what-you-should-know-about-collapsing-margins/"],
-									["What's the Deal with Collapsible Margins?", "https://bitsofco.de/collapsible-margins/"],
-									["What’s the Deal with Margin Collapse?", "https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/"],
-								]
-							},
-						}
-					]
 				},
 				/*{
 					name: "Overflow",
@@ -175,160 +120,38 @@ export const fundamentalsCollection = {
 					},
 				},*/
 				{
-					name: "Colors",
+					name: "분할 정복",
 					description: {
-						text: "Learn the different ways you can define colors in CSS.",
+						text: "분할 정복 문제입니다.",
 						links: [
-							["MDN - Color", "https://developer.mozilla.org/en-US/docs/Web/CSS/color"],
-							["MDN - <color>", "https://developer.mozilla.org/en-US/docs/Web/CSS/color_value"],
-							["W3Schools - CSS Colors", "https://www.w3schools.com/css/css_colors.asp"],
+							["난이도 - 중, 색종이 만들기", "https://www.acmicpc.net/problem/2630"],
+							["난이도 - 중, 쿼드 트리", "https://www.acmicpc.net/problem/1992"],
+							["난이도 - 중, Z", "https://www.acmicpc.net/problem/1074"],
 						]
 					},
 				},
 				{
-					name: "Calc",
+					name: "문자열",
 					description: {
-						text: "Learn how to use the CSS calc function.",
+						text: "문자열 문제입니다.",
 						links: [
-							["MDN - Calc", "https://developer.mozilla.org/en-US/docs/Web/CSS/calc"],
-							["CSS Tricks - A Couple of Use Cases for Calc()", "https://css-tricks.com/a-couple-of-use-cases-for-calc/"],
+							["난이도 - 하, 경고", "https://www.acmicpc.net/problem/3029"],
+							["난이도 - 중, 단어 정렬", "https://www.acmicpc.net/problem/1181"],
+							["난이도 - 중, 비밀번호 발음하기", "https://www.acmicpc.net/problem/4659"]
 						]
 					},
 				},
 				{
-					name: "Layout",
+					name: "누적합",
 					description: {
-						text: "Learn the different layout types for web.",
+						text: "누적합 문제입니다.",
 						links: [
-							["Chrome Dev - Basic Layout", "https://developers.google.com/training/certification/mobile-web-specialist/study-guide/basic-layout"],
-							["W3Schools - CSS Website Layout", "https://www.w3schools.com/css/css_website_layout.asp"],
-							["MDN - Document and website structure", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure"],
-							["MDN - CSS layout", "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout"],
+							["난이도 - 하, 2차원 배열의 합", "https://www.acmicpc.net/problem/2167"],
+							["난이도 - 중, 귀찮아 (SIB)", "https://www.acmicpc.net/problem/14929"],
+							["난이도 - 중, 점수 따먹기", "https://www.acmicpc.net/problem/1749"],
+							["난이도 - 상, 나누기", "https://www.acmicpc.net/problem/21757"],
 						]
 					},
-					skills: [
-						{
-							name: "Flex",
-							description: {
-								text: "Learn how to create layouts using flexbox.",
-								links: [
-									["MDN - Flexbox", "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox"],
-									["A Complete Guide to Flexbox", "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"],
-									["MDN - Flexbox", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox"],
-									["Flexbox Froggy", "https://flexboxfroggy.com/"],
-									["Flexbox Defense", "http://flexboxdefense.com"],
-								]
-							},
-						},
-						{
-							name: "Grid",
-							description: {
-								text: "Learn how to create layouts using CSS Grid.",
-								links: [
-									["MDN - Grids", "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids"],
-									["A Complete Guide to CSS Grid", "https://css-tricks.com/snippets/css/complete-guide-grid/"],
-									["MDN - CSS Grid", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout"],
-									["CSS Grid Garden", "https://cssgridgarden.com/"],
-									["Supercharged - CSS Grids", "https://www.youtube.com/watch?v=AqwPrR7hklE"]
-								]
-							},
-						}
-					]
-				},
-				{
-					name: "Transforms",
-					description: {
-						text: "Learn the different ways to transform elements through CSS.",
-						links: [
-							["MDN - transform", "https://developer.mozilla.org/en-US/docs/Web/CSS/transform"],
-							["CSS Tricks - Transform", "https://css-tricks.com/almanac/properties/t/transform/"],
-						]
-					},
-					skills: [
-						{
-							name: "Animations",
-							description: {
-								text: "Learn how to animate elements through CSS using keyframes.",
-								links: [
-									["MDN - Using CSS animations", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations"],
-									["CSS Tricks - Animation", "https://css-tricks.com/almanac/properties/a/animation/"],
-								]
-							},
-						}
-					]
-				},
-				{
-					name: "Responsive Design",
-					description: {
-						text: "Learn how to make your website responsive so it works across different screen sizes.",
-						links: [
-							["MDN - Responsive design", "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design"],
-							["Responsive Web Design Fundamentals by Google", "https://www.udacity.com/course/responsive-web-design-fundamentals--ud893"],
-							["Google Dev - Responsive Design", "https://developers.google.com/web/fundamentals/design-and-ux/responsive"],
-							["Google Dev - UX Patterns", "https://developers.google.com/web/fundamentals/design-and-ux/responsive/patterns"],
-							["Google Dev - Responsive Content", "https://developers.google.com/web/fundamentals/design-and-ux/responsive/content"],
-							["Codelabs - Responsive Design", "https://codelabs.developers.google.com/codelabs/pwa-responsive-design/index.html?index=..%2F..dev-pwa-training#0"],
-						]
-					},
-					skills: [
-						{
-							name: "Media Queries",
-							description: {
-								text: "Learn how use media queries to build responsive layout.",
-								links: [
-									["CSS Tricks - CSS Media Queries & Using Available Space", "https://css-tricks.com/css-media-queries/"],
-									["MDN - Using media queries", "https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries"],
-									["MDN - Using Media Queries for Accessibility", "https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_Media_Queries_for_Accessibility"],
-								]
-							},
-						},
-						{
-							name: "Relative Units",
-							description: {
-								text: "Learn how to use relative units for properties such as font sizes and spacing.",
-								links: [
-									["MDN - Sizing items in CSS", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS"],
-									["MDN - CSS values and units", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units"],
-									["The CSS Workshop - Relative Units", "https://thecssworkshop.com/lessons/relative-units"],
-									["CSS Tricks - Fun with Viewport Units", "https://css-tricks.com/fun-viewport-units/"],
-									["dev.to - 15 CSS Relative units", "https://dev.to/bytegasm/15-css-relative-units-how-many-do-you-know-em-rem-ex-cap-ch-ic-6m"],
-								]
-							},
-						},
-						{
-							name: "Images",
-							description: {
-								text: "Learn how to make images responsive, always showing the best possible version for the screen size.",
-								links: [
-									["Google Devs - Responsive Images", "https://developers.google.com/web/fundamentals/design-and-ux/responsive/images"],
-									["MDN - Responsive Images", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images"],
-								]
-							}
-						}
-					]
-				},
-				{
-					name: "CSS Variables",
-					description: {
-						text: "Learn how to define and use CSS variables.",
-						links: [
-							["MDN - Using CSS custom properties", "https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties"],
-							["Google Devs - CSS Variables: Why Should You Care?", "https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care"],
-							["dev.to - CSS Quickies: CSS Variables", "https://dev.to/lampewebdev/css-quickies-css-variables-or-how-you-create-a-white-dark-theme-easily-1i0i"],
-							["CSS Variables explained with 5 examples", "https://codeburst.io/css-variables-explained-with-5-examples-84adaffaa5bd"],
-						]
-					}
-				},
-				{
-					name: "Best Practices",
-					description: {
-						text: "Learn the best practices of writing CSS.",
-						links: [
-							["MDN - CSS guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/CSS"],
-							["MDN - Organizing your CSS", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing"],
-							["Speckyboy - Good and bad CSS practices", "https://speckyboy.com/good-bad-css-practices/"],
-						]
-					}
 				}
 			]
 		},
