@@ -9,5 +9,5 @@ export const collections = [
 	fundamentalsCollection,
 	accessibilityCollection,
 	webcomponentsCollection,
-	
+
 ];
