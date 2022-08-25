@@ -69,9 +69,9 @@ export const fundamentalsCollection = {
 					name: "완전 탐색",
 					description: {
 
-						text: "브루트 포스라고 불립니다.",
+						text: "브루트 포스로 불림",
 
-						text: "브루트 포스라고 불립니다.",
+						text: "브루트 포스로 불림",
 
 						links: [
 							["난이도 - 하, 피로도", "https://www.acmicpc.net/problem/22864"],
@@ -88,7 +88,7 @@ export const fundamentalsCollection = {
 			skills: [
 				{	name: "시뮬레이션",
 					description: {
-						text: "시뮬레이션 문제입니다.",
+						text: "시뮬레이션 문제",
 						links: [
 							["난이도 - 중, ZOAC 3", "https://www.acmicpc.net/problem/20436"],
 							["난이도 - 중, 지구 온난화", "https://www.acmicpc.net/problem/5212"],
@@ -122,7 +122,7 @@ export const fundamentalsCollection = {
 				{
 					name: "분할 정복",
 					description: {
-						text: "분할 정복 문제입니다.",
+						text: "분할 정복 문제",
 						links: [
 							["난이도 - 중, 색종이 만들기", "https://www.acmicpc.net/problem/2630"],
 							["난이도 - 중, 쿼드 트리", "https://www.acmicpc.net/problem/1992"],
@@ -133,7 +133,7 @@ export const fundamentalsCollection = {
 				{
 					name: "문자열",
 					description: {
-						text: "문자열 문제입니다.",
+						text: "문자열 문제",
 						links: [
 							["난이도 - 하, 경고", "https://www.acmicpc.net/problem/3029"],
 							["난이도 - 중, 단어 정렬", "https://www.acmicpc.net/problem/1181"],
@@ -144,7 +144,7 @@ export const fundamentalsCollection = {
 				{
 					name: "누적합",
 					description: {
-						text: "누적합 문제입니다.",
+						text: "누적합 문제",
 						links: [
 							["난이도 - 하, 2차원 배열의 합", "https://www.acmicpc.net/problem/2167"],
 							["난이도 - 중, 귀찮아 (SIB)", "https://www.acmicpc.net/problem/14929"],
@@ -185,7 +185,7 @@ export const fundamentalsCollection = {
 				{
 					name: "DFS",
 					description: {
-						text: "DFS, 깊이 우선탐색입니다.",
+						text: "DFS, 깊이 우선탐색",
 						links: [
 							["난이도 - 상, 트리", "https://www.acmicpc.net/problem/1068"],
 							["난이도 - 중, 전쟁 - 전투", "https://www.acmicpc.net/problem/1303"],
@@ -223,7 +223,7 @@ export const fundamentalsCollection = {
 				{
 					name: "플로이드 워셜",
 					description: {
-						text: "플로이드 워셜 문제입니다.",
+						text: "플로이드 워셜 문제",
 						links: [
 							["난이도 - 중, 친구", "https://www.acmicpc.net/problem/1058"],
 							["난이도 - 상, 역사", "https://www.acmicpc.net/problem/1613"],
