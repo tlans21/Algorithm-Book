@@ -20,7 +20,6 @@
 
 ### 실행 방법
 1. Algorithm Book 저장소 클론
-<br>
 ```git clone https://github.com/Algorithm-Book/Algorithm-Book.github.io.git```
 2. ```index.html``` 파일 실행 
 
