@@ -63,9 +63,9 @@ export const accessibilityCollection = {
 						}
 					]
 				}
-			]
+			]e
 		},
-                          {
+    {
 			name: "중급 자료구조",
 			skills: [
 				{	name: "시뮬레이션",
@@ -214,4 +214,4 @@ export const accessibilityCollection = {
 			]
 		}
 	]
-};
+}
