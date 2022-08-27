@@ -63,7 +63,7 @@ export const accessibilityCollection = {
 						}
 					]
 				}
-			]e
+			]
 		},
     {
 			name: "중급 자료구조",
