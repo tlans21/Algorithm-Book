@@ -28,7 +28,7 @@
 ## 문서
 ### 실행 방법
 1. Algorithm Book 저장소 클론
-``git@github.com:Algorithm-Book/Algorithm-Book.git```
+```git@github.com:Algorithm-Book/Algorithm-Book.git```
 2. ```index.html``` 파일 실행 
 <br><br>
 
