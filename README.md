@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Algorithm-Book/Algorithm-Book.github.io">
+  <a href="https://github.com/Algorithm-Book/Algorithm-Book">
     <img src="assets/logo.png" alt="Algorithm Book logo" width="200" height="200">
   </a>
 </p>
@@ -28,7 +28,7 @@
 ## 문서
 ### 실행 방법
 1. Algorithm Book 저장소 클론
-```git clone https://github.com/Algorithm-Book/Algorithm-Book.github.io.git```
+``git@github.com:Algorithm-Book/Algorithm-Book.git```
 2. ```index.html``` 파일 실행 
 <br><br>
 
