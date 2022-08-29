@@ -51,6 +51,7 @@
 #### 1-1. 초급 알고리즘
 
 정렬 
+	
 	["난이도 - 하, 수 정렬하기 ", "https://www.acmicpc.net/problem/2750"],
 
 	["난이도 - 중, 수열 정렬 ", "https://www.acmicpc.net/problem/1015"],
