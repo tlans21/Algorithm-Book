@@ -34,9 +34,13 @@ export const fundamentalsCollection = {
 				{
 					name: "탐색",
 							description: {
-								text: "완전탐색을 이용한 알고리즘 문제",
+								text: "완전탐색을 이용한 알고리즘 문제, 브루트 포스로 불림",
 								links: [
 									["난이도 - 하, 최소 직사각형", "https://school.programmers.co.kr/learn/courses/30/lessons/86491"],
+									["난이도 - 하, 피로도", "https://www.acmicpc.net/problem/22864"],
+									["난이도 - 하, 블랙잭", "https://www.acmicpc.net/problem/2798"],
+									["난이도 - 중,  DNA", "https://www.acmicpc.net/problem/1969"],
+									["난이도 - 중, 큰 수 구성하기", "https://www.acmicpc.net/problem/18511"]
 						]
 					}
 				},
@@ -65,22 +69,6 @@ export const fundamentalsCollection = {
 						}
 					]
 				},
-				{
-					name: "완전 탐색",
-					description: {
-
-						text: "브루트 포스로 불림",
-
-						text: "브루트 포스로 불림",
-
-						links: [
-							["난이도 - 하, 피로도", "https://www.acmicpc.net/problem/22864"],
-							["난이도 - 하, 블랙잭", "https://www.acmicpc.net/problem/2798"],
-							["난이도 - 중,  DNA", "https://www.acmicpc.net/problem/1969"],
-							["난이도 - 중, 큰 수 구성하기", "https://www.acmicpc.net/problem/18511"]
-						]
-					}
-				}
 			]
 		},
 		{
