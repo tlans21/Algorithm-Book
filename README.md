@@ -21,7 +21,7 @@
 - [문서](#문서)
 - [개발자](#개발자)
 - [참고사이트](#참고사이트)
-- [문제 정보](#문제 정보)
+- [문제정보](#문제정보)
 <br><br>
 
 ## 문서
@@ -46,7 +46,7 @@
 2. 프로그래머스: https://school.programmers.co.kr/learn/challenges
 3. 백준: https://www.acmicpc.net/problemset
 
-## 문제 정보
+## 문제정보
 ### 1. 알고리즘
 #### 1-1. 초급 알고리즘
 
