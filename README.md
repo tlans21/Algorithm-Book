@@ -7,7 +7,7 @@
 <h3 align="center">알고리즘 북</h3>
 
 <p align="center">
-  코딩 문제들을 초급, 중급, 고급으로 분류하여 정리한 사이트
+  코딩 문제들을 초급, 중급, 고급으로 분류하여 정리한 사이트.
   <br>
   <a href="https://algorithm-book.github.io/Algorithm-Book/"><strong>알고리즘 북 사이트 바로가기</strong></a>
 </p>
